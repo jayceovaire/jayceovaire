@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jayceovaire
-- 🌱 I’m currently learning ... DENO, TYPESCRIPT, GDSCRIPT
+- 🌱 I’m currently learning ... Nuxt, Vue, AI
 - 📫 How to reach me ... JAYCEOVAIRE@GMAIL.COM
 
 <!---
